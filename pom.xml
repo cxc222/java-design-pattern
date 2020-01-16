@@ -13,6 +13,7 @@
         <module>2-factory</module>
         <module>3-abstractFactory</module>
         <module>4-adapter</module>
+        <module>5-bridge</module>
     </modules>
 
 
