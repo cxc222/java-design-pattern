@@ -12,6 +12,7 @@
         <module>1-singleton</module>
         <module>2-factory</module>
         <module>3-abstractFactory</module>
+        <module>4-adapter</module>
     </modules>
 
 
